@@ -8,11 +8,9 @@
 	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="home.css">
   <style>
-    body {
-    background-size: cover;
-    background-image: url(home.jpg);
-    background-position: center; 
-}
+ body {
+    background-color: #355e3b;
+    }
 
 body,
 html {

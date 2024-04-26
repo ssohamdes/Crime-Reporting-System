@@ -32,7 +32,7 @@
 
             $_SESSION['cid']=$cid;
             
-            $resu=mysqli_query($conn,"SELECT a_no FROM complaint where c_id='$cid'",$conn);
+            $resu=mysqli_query($conn,"SELECT a_no FROM complaint where c_id='$cid'");
             $qn=mysqli_fetch_assoc($resu);
                 
             

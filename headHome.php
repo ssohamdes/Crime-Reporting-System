@@ -70,7 +70,8 @@ session_start();
     
     </script>
 </head>
-<body style="background-image: url(search1.jpeg); ">
+<body style="color: black;background-color: #55354F;">
+
 	<nav  class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">

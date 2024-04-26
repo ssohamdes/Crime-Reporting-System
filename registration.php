@@ -23,8 +23,8 @@ if(isset($_POST['s'])){
         {
         $message1 = "User Already Exist";
         echo "<script type='text/javascript'>alert('$message1');</script>";
-        header("Location: userlogin.php");
-        exit;
+
+ 
     }
             else
     {

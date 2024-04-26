@@ -62,7 +62,7 @@ if(sta2!="" && x2>=0){
     
     
 </head>
-<body style="color: black;background-image: url(locker.jpeg);background-size: 100%;background-repeat: no-repeat;">
+<body style="color: black;background-color: #8C7C63;">
 	<nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
@@ -76,7 +76,7 @@ if(sta2!="" && x2>=0){
     </div>
   </div>
  </nav>
- <div  align="center" >
+ <div align="center" >
 	<div class="form" style="margin-top: 15%">
 		<form method="post">
   <div class="form-group" style="width: 30%">
